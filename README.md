@@ -5,7 +5,7 @@
 Para descargar la aplicación del repo, se debe escribir el siguiente comando:
 
 ```
-null
+https://github.com/FragmentosTemporales/testing-docker-windows.git
 ```
 
 ### Variables de entorno
