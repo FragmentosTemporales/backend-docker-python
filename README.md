@@ -5,7 +5,7 @@
 Para descargar la aplicación del repo, se debe escribir el siguiente comando:
 
 ```
-https://github.com/FragmentosTemporales/testing-docker-windows.git
+$ git clone https://github.com/FragmentosTemporales/backend-docker-python.git
 ```
 
 ### Variables de entorno
