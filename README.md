@@ -32,7 +32,7 @@ Para ejecutar la aplicación debes ingresar el siguiente comando:
 $ docker compose run --rm scripts sh -c "python manage.py"
 ```
 
-### Bibliografía
+## 3.- Bibliografía
 
 ```
 null
