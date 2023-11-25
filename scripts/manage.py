@@ -21,6 +21,7 @@ class Saludo:
         self.full_name = self.set_fullname(self.first_name, self.last_name)
         
         self.lista_personas()
+        self.retorna()
 
     def retorna(self):
         """Retorna la información del usuario"""
